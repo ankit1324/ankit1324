@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on React application<br>👯 I’m looking to collaborate on friend's project<br>🤝 I’m looking for help with API<br>🌱 I’m currently learning Pure JS<br>💬 Ask me about<br>⚡ Fun fact
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit.zip) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-chaudhary-6b5570224/) 
