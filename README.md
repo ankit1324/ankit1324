@@ -64,6 +64,11 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit1324&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankit1324/ankit1324/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ankit1324/ankit1324/output/github-snake.svg" width="95%" />
+</picture>
+
 </div>
 
 ---
