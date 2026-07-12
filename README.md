@@ -2,7 +2,7 @@
 
 # Hi, I'm Ankit Chaudhary 👋
 
-### Full-Stack JavaScript Developer · React · Node.js · Three.js
+<a href="https://www.chaudharyankit.in/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=560&lines=Full-Stack+JavaScript+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+Three.js;Open+Source+Contributor" alt="Typing intro" /></a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-chaudharyankit.in-4c1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.chaudharyankit.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Chaudhary-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-chaudhary-6b5570224/)
