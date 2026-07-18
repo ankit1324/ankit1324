@@ -2,7 +2,7 @@
 
 # Hi, I'm Ankit Chaudhary 👋
 
-<a href="https://www.chaudharyankit.in/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=560&lines=Full-Stack+JavaScript+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+Three.js;Open+Source+Contributor" alt="Typing intro" /></a>
+<a href="https://www.chaudharyankit.in/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=560&lines=Fullstack+AI+Engineer;React+%E2%80%A2+Node.js+%E2%80%A2+LLMs+%E2%80%A2+Three.js;Open+Source+Contributor" alt="Typing intro" /></a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-chaudharyankit.in-4c1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.chaudharyankit.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Chaudhary-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-chaudhary-6b5570224/)
@@ -14,10 +14,19 @@
 
 ## 🚀 About Me
 
-- 💼 Building full-stack apps with **React, Node.js and TypeScript**
+- 🤖 Fullstack **AI Engineer** — building product experiences powered by **LLMs** on a **React + Node.js + TypeScript** stack
 - 🎨 I like 3D on the web — my [portfolio](https://www.chaudharyankit.in/) is built with **React + Three.js**
-- 🌱 Contributing to open source — most recently [immich](https://github.com/immich-app/immich)
+- 🌱 Active open source contributor — merged PRs in **react-hook-form** and **floci** (see below)
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/ankit-chaudhary-6b5570224/) or my [website](https://www.chaudharyankit.in/)
+
+## 🔀 Open Source Contributions
+
+| Project | Contribution | Status |
+|---|---|---|
+| [react-hook-form](https://github.com/react-hook-form/react-hook-form) `⭐ 44k` | Fixed `setValue` dirty-state tracking in disabled forms ([#13594](https://github.com/react-hook-form/react-hook-form/pull/13594)) | ✅ Merged |
+| [floci](https://github.com/floci-io/floci) `⭐ 16k` | EC2 emulation: AWS-accurate duplicate key-pair rejection in `ImportKeyPair` ([#1848](https://github.com/floci-io/floci/pull/1848)) | ✅ Merged |
+| [pino](https://github.com/pinojs/pino) `⭐ 15k` | Implemented missing `setBindings` on the browser logger ([#2471](https://github.com/pinojs/pino/pull/2471)) | 🔍 In review |
+| [react-router](https://github.com/remix-run/react-router) `⭐ 55k` | Fixed v8 regression: stale server build shipped with `ssr:false` output ([#15307](https://github.com/remix-run/react-router/pull/15307)) | 🔍 In review |
 
 ## 💻 Tech Stack
 
@@ -29,6 +38,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**AI / LLM**
+
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Frontend**
 
