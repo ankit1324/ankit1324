@@ -25,8 +25,6 @@
 |---|---|---|
 | [react-hook-form](https://github.com/react-hook-form/react-hook-form) `⭐ 44k` | Fixed `setValue` dirty-state tracking in disabled forms ([#13594](https://github.com/react-hook-form/react-hook-form/pull/13594)) | ✅ Merged |
 | [floci](https://github.com/floci-io/floci) `⭐ 16k` | EC2 emulation: AWS-accurate duplicate key-pair rejection in `ImportKeyPair` ([#1848](https://github.com/floci-io/floci/pull/1848)) | ✅ Merged |
-| [pino](https://github.com/pinojs/pino) `⭐ 15k` | Implemented missing `setBindings` on the browser logger ([#2471](https://github.com/pinojs/pino/pull/2471)) | 🔍 In review |
-| [react-router](https://github.com/remix-run/react-router) `⭐ 55k` | Fixed v8 regression: stale server build shipped with `ssr:false` output ([#15307](https://github.com/remix-run/react-router/pull/15307)) | 🔍 In review |
 
 ## 💻 Tech Stack
 
