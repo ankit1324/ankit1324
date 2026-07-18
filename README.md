@@ -73,8 +73,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankit1324&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit1324&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankit1324&theme=tokyonight" alt="GitHub stats" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankit1324&theme=tokyonight" alt="Top languages" height="170" />
 
 <img src="https://streak-stats.demolab.com?user=ankit1324&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
