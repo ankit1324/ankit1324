@@ -2,7 +2,7 @@
 
 # Ankit Chaudhary
 
-**Fullstack engineer** &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Node &nbsp;·&nbsp; React &nbsp;·&nbsp; Kotlin
+**Fullstack engineer** &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Node &nbsp;·&nbsp; React &nbsp;·&nbsp; React Native &nbsp;·&nbsp; Kotlin
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-chaudharyankit.in-2f855a?style=flat-square&logo=googlechrome&logoColor=white)](https://www.chaudharyankit.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Chaudhary-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-chaudhary-6b5570224/)
@@ -12,7 +12,7 @@
 
 ---
 
-TypeScript and Node on the server, React on the web, Kotlin on Android, and a fair amount of LLM/AI work on top of all three. Most of my open source time goes into library and emulator internals — [react-hook-form](https://github.com/react-hook-form/react-hook-form), [pino](https://github.com/pinojs/pino), and the [floci](https://github.com/floci-io/floci) local AWS/GCP emulators. On my own time I build [ArchIt](https://github.com/ankit1324/ArchIt) and [echoframe](https://github.com/ankit1324/echoframe).
+TypeScript and Node on the server, React on the web, React Native and Kotlin on mobile, and a fair amount of LLM/AI work on top of all three. Most of my open source time goes into library and emulator internals — [react-hook-form](https://github.com/react-hook-form/react-hook-form), [pino](https://github.com/pinojs/pino), and the [floci](https://github.com/floci-io/floci) local AWS/GCP emulators. On my own time I build [ArchIt](https://github.com/ankit1324/ArchIt) and [echoframe](https://github.com/ankit1324/echoframe).
 
 ---
 
@@ -47,5 +47,5 @@ TypeScript and Node on the server, React on the web, Kotlin on Android, and a fa
 | **Languages** | TypeScript, JavaScript, Kotlin |
 | **Web** | React, Next.js, Tailwind, MapLibre GL |
 | **Server** | Node.js, Express, Supabase |
-| **Mobile** | Android, Jetpack Compose, Room, ML Kit |
+| **Mobile** | React Native, Expo Router, Android, Jetpack Compose, Room, ML Kit |
 | **Tooling** | Jest, GitHub Actions, ESLint |
