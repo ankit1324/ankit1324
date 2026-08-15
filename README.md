@@ -35,7 +35,7 @@ TypeScript and Node on the server, React on the web, React Native and Kotlin on 
 
 | | |
 |:--|:--|
-| **[ArchIt](https://github.com/ankit1324/ArchIt)**<br>[archit.chaudharyankit.in](https://archit.chaudharyankit.in) | Find a property on a 3D map and design the house on it in the browser.<br><sub>Next.js · TypeScript · MapLibre GL · Supabase · Clerk · Razorpay</sub> |
+| **[ArchIt](https://github.com/ankit1324/ArchIt)**<br>[archit.chaudharyankit.in](https://archit.chaudharyankit.in) | Find a property on a 3D map and design the house on it in the browser.<br><sub>Next.js · TypeScript · MapLibre GL · Three.js · Supabase · Clerk · Razorpay</sub> |
 | **[echoframe](https://github.com/ankit1324/echoframe)** | Turns a screenshot, its source app and URL into a searchable note. Read entirely on-device — no network access by design.<br><sub>Kotlin · Jetpack Compose · Room · ML Kit</sub> |
 
 ---
@@ -45,7 +45,7 @@ TypeScript and Node on the server, React on the web, React Native and Kotlin on 
 | | |
 |:--|:--|
 | **Languages** | TypeScript, JavaScript, Kotlin |
-| **Web** | React, Next.js, Tailwind, MapLibre GL |
+| **Web** | React, Next.js, Tailwind, MapLibre GL, Three.js |
 | **Server** | Node.js, Express, Supabase |
 | **Mobile** | React Native, Expo Router, Android, Jetpack Compose, Room, ML Kit |
 | **Tooling** | Jest, GitHub Actions, ESLint |
